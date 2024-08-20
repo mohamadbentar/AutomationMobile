@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'heimdalljogja@jba.co.id'</initValue>
+      <name>Username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Qwer1234'</initValue>
+      <name>Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'D:\\Automation Mobile\\AutomationMobile\\androidapp\\app-2.7.0-jbadev.apk'</initValue>
+      <name>Path_APK</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'2024-08-15'</initValue>
+      <name>Tanggal</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'B 9291 B'</initValue>
+      <name>FilterNoPolisi</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'B 9999 B'</initValue>
+      <name>NoPolisi</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ABASRI'</initValue>
+      <name>Seller</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'9451232346'</initValue>
+      <name>NoRangka</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'923321234565'</initValue>
+      <name>NoMesin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'HONDA'</initValue>
+      <name>Merk</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'CRV 2.0'</initValue>
+      <name>ModelDoc</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'CRV 2.0'</initValue>
+      <name>ModelFisik</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'2023'</initValue>
+      <name>Tahun</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
